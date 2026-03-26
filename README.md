@@ -92,6 +92,3 @@ Traditional diagnostic methods are often subjective and may lead to delayed or i
 
 Thiha Kyaw Zaw
 MSc Data Science, University of Sheffield
-
-### Confusion Matrix
-![Confusion Matrix](results/user_reduction_bar_chart.png)
